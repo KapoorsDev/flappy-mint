@@ -1,0 +1,18 @@
+{
+  "name": "FLAPPY #177",
+  "description": "Embark on an NFT gaming odyssey with 333 Flappy on SEI 🎮🚀",
+  "image": "177.png",
+  "edition": 177,
+  "date": 1710093445487,
+  "attributes": [
+    {
+      "trait_type": "Flappy",
+      "value": "1 (102)"
+    },
+    {
+      "trait_type": "Items",
+      "value": "1 (17)"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}
